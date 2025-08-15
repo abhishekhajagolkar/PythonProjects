@@ -33,6 +33,7 @@ Play against the computer and see who wins! 🏆
 📄 Paper covers ✊ Rock — 💻 Computer Wins!
 
 📂 Project Structure
+
 ├── rps_game.py   # The game code
 
 └── README.md     # This file
