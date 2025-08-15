@@ -21,6 +21,7 @@ Pick a difficulty level, then guess the secret number. Enter **0** anytime to ex
 3. Type **0** to exit the game instantly.
 
 📦 Project Structure
+
 ├─ guess_number.py   # the game
 
 └─ README.md         # this file
