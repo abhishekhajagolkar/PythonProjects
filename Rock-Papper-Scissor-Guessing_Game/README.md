@@ -34,7 +34,7 @@ Play against the computer and see who wins! 🏆
 
 ----------------------------------------
 
-📂 Project Structure
+## 📂 Project Structure
 
 ├── Game.py   # The game code
 
