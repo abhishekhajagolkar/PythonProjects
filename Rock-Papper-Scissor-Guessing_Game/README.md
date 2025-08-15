@@ -1,4 +1,4 @@
-# 🎮 Rock–Paper–Scissors (Python CLI)
+# 🎮 Rock–Paper–Scissors (Python)
 
 A fun, **emoji-powered** Rock–Paper–Scissors game built in **Python 🐍**.  
 Play against the computer and see who wins! 🏆
