@@ -22,6 +22,7 @@ Pick a difficulty level, then guess the secret number. Enter **0** anytime to ex
 
 📦 Project Structure
 ├─ guess_number.py   # the game
+
 └─ README.md         # this file
 
 🧭 Future Enhancements (Ideas)
