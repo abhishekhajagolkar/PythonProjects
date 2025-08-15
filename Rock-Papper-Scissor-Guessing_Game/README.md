@@ -36,7 +36,7 @@ Play against the computer and see who wins! 🏆
 
 📂 Project Structure
 
-├── rps_game.py   # The game code
+├── Game.py   # The game code
 
 └── README.md     # This file
 
