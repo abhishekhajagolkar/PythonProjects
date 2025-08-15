@@ -42,7 +42,7 @@ Play against the computer and see who wins! 🏆
 
 ------------------------------------------
 
-🧭 Future Enhancements
+##🧭 Future Enhancements
 
 🧮 Score counter & best-of-N mode.
 
