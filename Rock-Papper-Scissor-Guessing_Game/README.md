@@ -32,6 +32,7 @@ Play against the computer and see who wins! 🏆
 🧑 You chose: rock 🤖 Computer chose: paper
 📄 Paper covers ✊ Rock — 💻 Computer Wins!
 
+
 📂 Project Structure
 
 ├── rps_game.py   # The game code
@@ -39,8 +40,12 @@ Play against the computer and see who wins! 🏆
 └── README.md     # This file
 
 🧭 Future Enhancements
+
 🧮 Score counter & best-of-N mode.
+
 🎨 Colored text output using colorama.
+
 🎶 Add sound effects for win/lose/tie.
+
 👥 Two-player mode.
 
