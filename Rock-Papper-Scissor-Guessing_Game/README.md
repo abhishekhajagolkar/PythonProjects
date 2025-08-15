@@ -32,6 +32,7 @@ Play against the computer and see who wins! 🏆
 🧑 You chose: rock 🤖 Computer chose: paper
 📄 Paper covers ✊ Rock — 💻 Computer Wins!
 
+----------------------------------------
 
 📂 Project Structure
 
@@ -39,6 +40,7 @@ Play against the computer and see who wins! 🏆
 
 └── README.md     # This file
 
+------------------------------------------
 
 🧭 Future Enhancements
 
